@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Crypto Address Annotator",
+    "version": "1.0",
+    "description": "Annotates crypto addresses on a webpage with associated names.",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
