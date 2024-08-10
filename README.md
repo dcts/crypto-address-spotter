@@ -1,6 +1,6 @@
 # Radix Address Spotter
 
-This extension automatically highlights known DeXter contributor wallet addresses while you browse.
+This extension automatically highlights known DeXter contributor wallet addresses while you browse the web.
 
 ## Installation (manual)
 
