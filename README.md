@@ -9,6 +9,8 @@ This extension automatically highlights known DeXter contributor wallet addresse
 3. Enable "Developer mode" using the toggle in the upper-right corner.
 4. Click "Load unpacked" and select the "Radix-Address-Spotter" folder where you saved the files.
 5. Your extension should now be loaded and running, and you should see its icon in the extensions bar. You might need to hard refresh the webpage.
+6. To test, go to any crumbs proposal (e.g. [this one](https://www.crumbsup.io/#proposal?id=f7bf5bcc-dafd-4aa0-8d18-1754f2aa7b46)) and navigate to the "votes".
+
 
 **Disclaimer**:
 
