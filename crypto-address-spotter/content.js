@@ -292,8 +292,4 @@ const cryptoAddresses = {
     isEnabled = result.scriptEnabled !== false; // Default to true if not set
     toggleScript();
   });
-
-  // // Run the function immediately and then every 5 seconds
-  // scanAndAnnotate();
-  // setInterval(scanAndAnnotate, 1000);
 })();
